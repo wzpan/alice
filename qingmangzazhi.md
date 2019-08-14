@@ -1,6 +1,6 @@
 # 轻芒杂志（ID：qingmangzazhi）
 
-?> 推荐将链接复制到手机端微信内浏览，网页端会有少许尺寸差异<br/>
+?> 推荐将链接复制到手机端微信内浏览，网页端会有少许尺寸差异。<br/>
  Recommend opening the links on APP: WeChat. Web version may cause variation in size.
 
 - [你最喜欢的夏日冰品是什么？轻芒来帮你做。](https://mp.weixin.qq.com/s/dIhAIcVM93fX0m8kIwhwIw)

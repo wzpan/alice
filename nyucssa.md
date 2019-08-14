@@ -1,6 +1,6 @@
 # NYU CSSA 微信公众平台（ID：nyucssa）
 
-?> 推荐将链接复制到手机端微信内浏览，网页端会有少许尺寸差异<br/>
+?> 推荐将链接复制到手机端微信内浏览，网页端会有少许尺寸差异。<br/>
  Recommend opening the links on APP: WeChat. Web version may cause variation in size.
 
 * [【NYU赛区】北美狼人杀正式回归：天黑请闭眼，你准备好了吗？](https://mp.weixin.qq.com/s/eqzvn8Rbv-I-9erHnEkYLg)

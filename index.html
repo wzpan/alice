@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Alice's Wechat Platform Article Collections</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+  <link href="https://hahack-1253537070.cos.ap-chengdu.myqcloud.com/images/favicon.png" rel='icon' type='image/x-icon'/>
+  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+   window.$docsify = {
+       // 加载 _sidebar.md
+       loadSidebar: true,
+	   subMaxLevel: 2,
+       repo: 'wzpan/alice',
+       search: 'auto', // 默认值
+       formatUpdated: '{MM}/{DD} {HH}:{mm}',
+       plugins: [
+           EditOnGithubPlugin.create(
+               'https://github.com/wzpan/alice/blob/master/docs/'
+		   )
+       ]
+   }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-python.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-yaml.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify-copy-code"></script>  
+  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
+</body>
+</html>

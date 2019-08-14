@@ -1,5 +1,8 @@
 # 轻芒杂志（ID：qingmangzazhi）
 
+?> 推荐将链接复制到手机端微信内浏览，网页端会有少许尺寸差异<br/>
+ Recommend opening the links on APP: WeChat. Web version may cause variation in size.
+
 - [你最喜欢的夏日冰品是什么？轻芒来帮你做。](https://mp.weixin.qq.com/s/dIhAIcVM93fX0m8kIwhwIw)
 - [崔永元，一位承载着社会情绪的「中国病人」〡 轻芒](https://mp.weixin.qq.com/s/hGzc5rrDPpw_SVtZId2dLA)
 - [周立波结案，不只是有罪无罪这么简单 | 轻芒](https://mp.weixin.qq.com/s/yYCZJMkCl5EN2-1hN3HQ9g)
